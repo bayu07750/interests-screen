@@ -13,6 +13,7 @@ This is just a fun project I created to learn more about [Testing in Android](ht
 - Coroutines Testing
 - Flow testing, including StateFlow
 - ViewModel testing
+- Repository testing
 - etc.
 
 
